@@ -1,2 +1,4 @@
-# IMCCalc
- Repositório referente a uma calculadora de IMC em Java
+# IMC Calc Java
+ Repositório referente a uma calculadora de IMC na linguagem Java
+
+Código desenvolvido para treinamento Java.
